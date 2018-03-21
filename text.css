@@ -145,13 +145,13 @@ h1{
 }
 
 #towninfo {
-  top:135px;
+  top:185px;
   left:1500px;
 }
 
 #message2{
-  top: 235px;
-  left: 2450px;
+  top: 185px;
+  left: 2250px;
     animation: fade .9s;
     animation-iteration-count: 7;
 }
@@ -172,8 +172,8 @@ h1{
   }
 }
 #cityinfo{
-  top: 230px;
-  left:4200px;
+  top: 180px;
+  left:3900px;
 }
 
 #newcity{
