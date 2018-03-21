@@ -43,7 +43,7 @@ test.onclick = function() {
   let timer = setInterval(function() {
     let timePassed = Date.now() - start;
 
-    test.style.left = timePassed / 4 + 'px';
+    test.style.left = timePassed / 3 + 'px';
 
     if (timePassed > 100000) clearInterval(timer);
 
